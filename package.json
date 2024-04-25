@@ -1,5 +1,5 @@
 {
-  "name": "vue3-element-admin",
+  "name": "Yuki-element-admin",
   "version": "2.9.3",
   "private": true,
   "type": "module",
@@ -111,8 +111,8 @@
     "vite-plugin-svg-icons": "^2.0.1",
     "vue-tsc": "^2.0.13"
   },
-  "repository": "https://gitee.com/youlaiorg/vue3-element-admin.git",
-  "author": "有来开源组织",
+  "repository": "https://github.com/asuyuku/Yuki-element-admin.git",
+  "author": "asuyuku",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0"
